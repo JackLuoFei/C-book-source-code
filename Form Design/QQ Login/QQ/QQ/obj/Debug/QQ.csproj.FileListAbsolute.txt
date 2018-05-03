@@ -1,0 +1,18 @@
+K:\VS2013\Source code\QQ Login\QQ\QQ\bin\Debug\QQ.exe.config
+K:\VS2013\Source code\QQ Login\QQ\QQ\bin\Debug\QQ.exe
+K:\VS2013\Source code\QQ Login\QQ\QQ\bin\Debug\QQ.pdb
+K:\VS2013\Source code\QQ Login\QQ\QQ\obj\Debug\QQ.csprojResolveAssemblyReference.cache
+K:\VS2013\Source code\QQ Login\QQ\QQ\obj\Debug\QQ.Properties.Resources.resources
+K:\VS2013\Source code\QQ Login\QQ\QQ\obj\Debug\QQ.csproj.GenerateResource.Cache
+K:\VS2013\Source code\QQ Login\QQ\QQ\obj\Debug\QQ.exe
+K:\VS2013\Source code\QQ Login\QQ\QQ\obj\Debug\QQ.pdb
+K:\VS2013\Source code\QQ Login\QQ\QQ\obj\Debug\QQ.QQ.resources
+J:\QQ Login\QQ\QQ\bin\Debug\QQ.exe.config
+J:\QQ Login\QQ\QQ\obj\Debug\QQ.exe
+J:\QQ Login\QQ\QQ\obj\Debug\QQ.pdb
+J:\QQ Login\QQ\QQ\bin\Debug\QQ.exe
+J:\QQ Login\QQ\QQ\bin\Debug\QQ.pdb
+J:\QQ Login\QQ\QQ\obj\Debug\QQ.csprojResolveAssemblyReference.cache
+J:\QQ Login\QQ\QQ\obj\Debug\QQ.QQ.resources
+J:\QQ Login\QQ\QQ\obj\Debug\QQ.Properties.Resources.resources
+J:\QQ Login\QQ\QQ\obj\Debug\QQ.csproj.GenerateResource.Cache

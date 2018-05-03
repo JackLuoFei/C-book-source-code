@@ -1,0 +1,12 @@
+C:\Users\Administrator\Desktop\qzks\qzks\qzks\bin\Debug\qzks.exe.config
+C:\Users\Administrator\Desktop\qzks\qzks\qzks\bin\Debug\qzks.exe
+C:\Users\Administrator\Desktop\qzks\qzks\qzks\bin\Debug\qzks.pdb
+C:\Users\Administrator\Desktop\qzks\qzks\qzks\obj\Debug\qzks.csprojResolveAssemblyReference.cache
+C:\Users\Administrator\Desktop\qzks\qzks\qzks\obj\Debug\qzks.exe
+C:\Users\Administrator\Desktop\qzks\qzks\qzks\obj\Debug\qzks.pdb
+D:\qzks\qzks\qzks\obj\Debug\qzks.exe
+D:\qzks\qzks\qzks\obj\Debug\qzks.pdb
+D:\qzks\qzks\qzks\bin\Debug\qzks.exe.config
+D:\qzks\qzks\qzks\bin\Debug\qzks.exe
+D:\qzks\qzks\qzks\bin\Debug\qzks.pdb
+D:\qzks\qzks\qzks\obj\Debug\qzks.csprojResolveAssemblyReference.cache

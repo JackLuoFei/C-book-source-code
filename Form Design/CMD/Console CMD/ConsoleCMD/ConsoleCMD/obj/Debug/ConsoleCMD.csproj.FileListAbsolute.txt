@@ -1,0 +1,5 @@
+D:\C-sharp-book-source-code\CMD\Console CMD\ConsoleCMD\ConsoleCMD\bin\Debug\ConsoleCMD.exe.config
+D:\C-sharp-book-source-code\CMD\Console CMD\ConsoleCMD\ConsoleCMD\bin\Debug\ConsoleCMD.exe
+D:\C-sharp-book-source-code\CMD\Console CMD\ConsoleCMD\ConsoleCMD\bin\Debug\ConsoleCMD.pdb
+D:\C-sharp-book-source-code\CMD\Console CMD\ConsoleCMD\ConsoleCMD\obj\Debug\ConsoleCMD.exe
+D:\C-sharp-book-source-code\CMD\Console CMD\ConsoleCMD\ConsoleCMD\obj\Debug\ConsoleCMD.pdb

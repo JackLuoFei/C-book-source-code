@@ -1,0 +1,9 @@
+K:\VS2013\Source code\power off\PowerOff\PowerOff\bin\Debug\PowerOff.exe.config
+K:\VS2013\Source code\power off\PowerOff\PowerOff\bin\Debug\PowerOff.exe
+K:\VS2013\Source code\power off\PowerOff\PowerOff\bin\Debug\PowerOff.pdb
+K:\VS2013\Source code\power off\PowerOff\PowerOff\obj\Debug\PowerOff.csprojResolveAssemblyReference.cache
+K:\VS2013\Source code\power off\PowerOff\PowerOff\obj\Debug\PowerOff.Form1.resources
+K:\VS2013\Source code\power off\PowerOff\PowerOff\obj\Debug\PowerOff.Properties.Resources.resources
+K:\VS2013\Source code\power off\PowerOff\PowerOff\obj\Debug\PowerOff.csproj.GenerateResource.Cache
+K:\VS2013\Source code\power off\PowerOff\PowerOff\obj\Debug\PowerOff.exe
+K:\VS2013\Source code\power off\PowerOff\PowerOff\obj\Debug\PowerOff.pdb
