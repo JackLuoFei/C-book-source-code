@@ -1,0 +1,8 @@
+K:\Form Code\11-5\11-5\11-5\bin\Debug\11-5.exe.config
+K:\Form Code\11-5\11-5\11-5\bin\Debug\11-5.exe
+K:\Form Code\11-5\11-5\11-5\bin\Debug\11-5.pdb
+K:\Form Code\11-5\11-5\11-5\obj\Debug\_11_5.Form1.resources
+K:\Form Code\11-5\11-5\11-5\obj\Debug\_11_5.Properties.Resources.resources
+K:\Form Code\11-5\11-5\11-5\obj\Debug\11-5.csproj.GenerateResource.Cache
+K:\Form Code\11-5\11-5\11-5\obj\Debug\11-5.exe
+K:\Form Code\11-5\11-5\11-5\obj\Debug\11-5.pdb

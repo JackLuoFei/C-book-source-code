@@ -1,0 +1,18 @@
+K:\Form Code\11-6\11-6\11-6\bin\Debug\11-6.exe.config
+K:\Form Code\11-6\11-6\11-6\bin\Debug\11-6.exe
+K:\Form Code\11-6\11-6\11-6\bin\Debug\11-6.pdb
+K:\Form Code\11-6\11-6\11-6\obj\Debug\_11_6.Form1.resources
+K:\Form Code\11-6\11-6\11-6\obj\Debug\_11_6.Properties.Resources.resources
+K:\Form Code\11-6\11-6\11-6\obj\Debug\11-6.csproj.GenerateResource.Cache
+K:\Form Code\11-6\11-6\11-6\obj\Debug\11-6.exe
+K:\Form Code\11-6\11-6\11-6\obj\Debug\11-6.pdb
+K:\Form Code\11-6\11-6\11-6\obj\Debug\11-6.csprojResolveAssemblyReference.cache
+K:\Form Code\11-6 - 副本\11-6\11-6\bin\Debug\11-6.exe.config
+K:\Form Code\11-6 - 副本\11-6\11-6\obj\Debug\11-6.exe
+K:\Form Code\11-6 - 副本\11-6\11-6\obj\Debug\11-6.pdb
+K:\Form Code\11-6 - 副本\11-6\11-6\bin\Debug\11-6.exe
+K:\Form Code\11-6 - 副本\11-6\11-6\bin\Debug\11-6.pdb
+K:\Form Code\11-6 - 副本\11-6\11-6\obj\Debug\11-6.csprojResolveAssemblyReference.cache
+K:\Form Code\11-6 - 副本\11-6\11-6\obj\Debug\_11_6.Form1.resources
+K:\Form Code\11-6 - 副本\11-6\11-6\obj\Debug\_11_6.Properties.Resources.resources
+K:\Form Code\11-6 - 副本\11-6\11-6\obj\Debug\11-6.csproj.GenerateResource.Cache

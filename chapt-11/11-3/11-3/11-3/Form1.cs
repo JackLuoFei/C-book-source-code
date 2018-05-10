@@ -15,6 +15,7 @@ namespace _11_3
         public Form1()
         {
             InitializeComponent();
+            pictureBox1.Image = Properties.Resources._3;
         }
         private int imageNum = -1;
         private void pictureBox1_Click(object sender, EventArgs e)

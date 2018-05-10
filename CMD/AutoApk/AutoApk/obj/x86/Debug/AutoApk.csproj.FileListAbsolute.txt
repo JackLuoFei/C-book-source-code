@@ -1,0 +1,8 @@
+D:\C-sharp-book-source-code\CMD\AutoApk\AutoApk\bin\Debug\AutoApk.exe
+D:\C-sharp-book-source-code\CMD\AutoApk\AutoApk\bin\Debug\AutoApk.pdb
+D:\C-sharp-book-source-code\CMD\AutoApk\AutoApk\obj\x86\Debug\AutoApk.csprojResolveAssemblyReference.cache
+D:\C-sharp-book-source-code\CMD\AutoApk\AutoApk\obj\x86\Debug\AutoApk.AutoApkMain.resources
+D:\C-sharp-book-source-code\CMD\AutoApk\AutoApk\obj\x86\Debug\AutoApk.Properties.Resources.resources
+D:\C-sharp-book-source-code\CMD\AutoApk\AutoApk\obj\x86\Debug\AutoApk.csproj.GenerateResource.Cache
+D:\C-sharp-book-source-code\CMD\AutoApk\AutoApk\obj\x86\Debug\AutoApk.exe
+D:\C-sharp-book-source-code\CMD\AutoApk\AutoApk\obj\x86\Debug\AutoApk.pdb

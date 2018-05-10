@@ -6,3 +6,12 @@ K:\Form Code\11-3\11-3\11-3\obj\Debug\_11_3.Properties.Resources.resources
 K:\Form Code\11-3\11-3\11-3\obj\Debug\11-3.csproj.GenerateResource.Cache
 K:\Form Code\11-3\11-3\11-3\obj\Debug\11-3.exe
 K:\Form Code\11-3\11-3\11-3\obj\Debug\11-3.pdb
+D:\C-sharp-book-source-code\chapt-11\11-3\11-3\11-3\bin\Debug\11-3.exe.config
+D:\C-sharp-book-source-code\chapt-11\11-3\11-3\11-3\obj\Debug\11-3.exe
+D:\C-sharp-book-source-code\chapt-11\11-3\11-3\11-3\obj\Debug\11-3.pdb
+D:\C-sharp-book-source-code\chapt-11\11-3\11-3\11-3\bin\Debug\11-3.exe
+D:\C-sharp-book-source-code\chapt-11\11-3\11-3\11-3\bin\Debug\11-3.pdb
+D:\C-sharp-book-source-code\chapt-11\11-3\11-3\11-3\obj\Debug\11-3.csprojResolveAssemblyReference.cache
+D:\C-sharp-book-source-code\chapt-11\11-3\11-3\11-3\obj\Debug\_11_3.Form1.resources
+D:\C-sharp-book-source-code\chapt-11\11-3\11-3\11-3\obj\Debug\_11_3.Properties.Resources.resources
+D:\C-sharp-book-source-code\chapt-11\11-3\11-3\11-3\obj\Debug\11-3.csproj.GenerateResource.Cache
